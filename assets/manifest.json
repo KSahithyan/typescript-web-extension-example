@@ -1,6 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "Testing",
+    "name": "typescript-web-extension-example",
+    "description": "nothing...",
     "version": "1.0",
     "content_scripts": [
         { "matches": ["<all_urls>"], "js": ["src/content_script.js"] }
