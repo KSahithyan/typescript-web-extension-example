@@ -1,7 +1,11 @@
 # Web Extension using TypeScript
 
+This is the template for a web extension developed using a TypeScript.
+
 ## Get Started
 
-Clone this repo using the command shown below, and start developing your extension.
+1. `mkdir [project-name] && cd [project-name]`
+   Create a folder with the project name and move into the folder.
 
-`git clone --bare https://github.com/KSahithyan/typescript-web-extension-example`
+2. `git init --template=https://github.com/KSahithyan/typescript-web-extension-example`
+   Initialize a git repository with this repo as the tempalte
